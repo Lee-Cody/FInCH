@@ -6,11 +6,13 @@ FIJI homepage:
 
     https://fiji.sc/
 
+
 Installation Instructions:
 
 Place folders directly into FIJI app directory. 
   
     FInCH_.py should end up in Fiji.app/plugins and the rest of the files should end up in Fiji.app/jars/Lib/FInCH/
+
 
 How to start FInCH:
 
