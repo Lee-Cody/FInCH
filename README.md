@@ -1,11 +1,11 @@
 # FInCH
 *FIJI plugin that performs automated and scalable whole-image analysis of protein expression and cell morphology*  
 
-## FIJI homepage:
+## FIJI homepage:  
 
-	https://fiji.sc/    
-
-## Installation Instructions:
+	https://fiji.sc/  
+ 
+## Installation Instructions:  
 
 Place folders directly into FIJI app directory. 
   
