@@ -1,10 +1,9 @@
+![logo image of a black finch on a white background](/jars/Lib/FInCH/FInCHminilogo.png)
 # FInCH
 *FIJI plugin that performs automated and scalable whole-image analysis of protein expression and cell morphology*  
 
-## Requirements:  
--FIJI: free image analysis software based on ImageJ  
-
-	FIJI homepage:  https://fiji.sc/  
+## Requirements:
+-[FIJI](https://fiji.sc/): free image analysis software based on ImageJ  
  
 ## Installation Instructions:  
 
