@@ -12,10 +12,16 @@ Place folders directly into FIJI app directory.
   
 	FInCH_.py and colourdeconvolution.txt should end up in Fiji.app/plugins; the rest of the files should end up in Fiji.app/jars/Lib/FInCH/  
 
+<br/>  
+
 ## How to start FInCH
+
 Restart FIJI if it is open. Under the "Plugins" drop-down menu, select "FInCH" to start the plugin.  
+
 <br/>  
+
 ///Link to paper///  
+
 <br/>  
+
 Copyright © 2024 Cody Lee
-<!--![logo image of a black finch on a white background](/jars/Lib/FInCH/FInCHminilogo.png)-->
