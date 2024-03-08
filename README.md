@@ -2,7 +2,8 @@
 *FIJI plugin that performs automated and scalable whole-image analysis of protein expression and cell morphology*  
 
 ## Requirements:  
--FIJI - free image analysis software based on ImageJ
+-FIJI: free image analysis software based on ImageJ  
+
 	FIJI homepage:  https://fiji.sc/  
  
 ## Installation Instructions:  
