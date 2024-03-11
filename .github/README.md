@@ -1,7 +1,8 @@
 <img src="/jars/Lib/FInCH/FInCHminilogo.png" alt="logo image of a black finch on a white background" width="88" height="88" />  
 
 # **FInCH**  
-Cody Lee, Carmen Moreno, & Alexander Badyaev
+Cody Lee, Carmen Moreno, & Alexander Badyaev  
+
 *FIJI plugin that performs automated and scalable whole-image analysis of protein expression and cell morphology*  
 <br/>  
 ## Requirements
