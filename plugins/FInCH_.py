@@ -12,7 +12,7 @@ from FInCH.FInCHPlugins import *
 from java.awt import Window
 
 ######################
-version = "1.0.0"
+version = "1.0.1"
 ini_name = 'FInCH.ini'
 defaults = {
 	#ini default settings:
