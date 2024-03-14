@@ -12,7 +12,7 @@ Cody Lee, Carmen Sánchez Moreno, & Alexander V. Badyaev
 
 Place folders directly into FIJI app directory. 
   
-	FInCH_.py and colourdeconvolution.txt should end up in Fiji.app/plugins; the rest of the files should end up in Fiji.app/jars/Lib/FInCH/  
+	FInCH_.py should end up in Fiji.app/plugins; the rest of the files should end up in Fiji.app/jars/Lib/FInCH/  
 
 <br/>  
 
